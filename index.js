@@ -10,7 +10,7 @@ var marker0NotCounted = true;
 var click1 = 0;
 var click2 = 0;
 
-let timer = 15;
+let timer = 20;
 let miliTimer = 12000;
 let timerId;
 
