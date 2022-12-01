@@ -18,7 +18,7 @@ let detectionParams = {
   IMAGE_CONTRAST: 0,
   IMAGE_BRIGHTNESS: 0,
   IMAGE_GRAYSCALE: 0,
-  TORCH: false
+  TORCH: true
 };
 
 beholder.setParam = function setParam(key, val) {
