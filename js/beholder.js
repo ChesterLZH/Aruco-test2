@@ -92,7 +92,7 @@ beholder.startCameraFeed = function startCameraFeed() {
       video: {
         width: detectionParams.VIDEO_SIZE.width,
         height: detectionParams.VIDEO_SIZE.height,
-        deviceId: detectionParams.CAMERA_INFO
+        deviceId: detectionParams.CAMERA_INFO,
         facingMode: 'environment' //use rear cam
       }
     })
